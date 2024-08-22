@@ -1,6 +1,6 @@
 ### PHP
 
-[php-lrpm](https://github.com/vrza/php-lrpm) is a framework for dynamic management of processes in parallel processing PHP applications
+[php-lrpm](https://github.com/vrza/php-lrpm) is a framework for dynamic management of processes in parallel PHP applications
 
 [php-lrpm-cluster](https://github.com/vrza/php-lrpm-cluster) is an add-on for [php-lrpm](https://github.com/vrza/php-lrpm) that enables distributing the multi-process application over multiple hosts
 
@@ -28,7 +28,7 @@
 
 [psmaps](https://github.com/vrza/psmaps) is a tool that reports memory usage of Linux processes, including Unique, Proportional and Resident Set Size
 
-[smem](https://github.com/vrza/smem) is a fork of Olivia Mackall's [useful tool](https://www.selenic.com/smem/), with improvemetns that make it significantly faster
+[smem](https://github.com/vrza/smem) is a fork of Olivia Mackall's [useful tool](https://www.selenic.com/smem/), with improvements that make it significantly faster
 
 
 ### Terminal
@@ -45,6 +45,6 @@
 [uaroman](https://github.com/vrza/uaroman) transliterates Ukrainian Cyrillic to Latin, using the official 2010 Romanization System
 
 
-### Misc
+### Games
 
 [derclou](https://github.com/vrza/derclou) is a source port of a 1994 game The Clue!, using SDL2 and supporting 64-bit architectures
