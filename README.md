@@ -21,7 +21,7 @@
 
 ### Node.js
 
-[node-blak2](https://github.com/vrza/node-blake2) wraps official C implementations of BLAKE2 cryptographic hash functions in a Node.js library
+[node-blake2](https://github.com/vrza/node-blake2) wraps official C implementations of BLAKE2 cryptographic hash functions in a Node.js library
 
 
 ### Linux
