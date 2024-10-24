@@ -10,7 +10,7 @@
 
 [array-with-secondary-keys](https://github.com/vrza/array-with-secondary-keys)  is a PHP collection that encapsulates a hash map and alternate lookup maps; it is built on top of [cardinal-collections](https://github.com/vrza/cardinal-collections)
 
-[php-rendezvous-hashing](https://github.com/vrza/php-rendezvous-hashing) is an implementation of Rendezvous Hsshing (Highest Random Weight Hashing) for PHP
+[php-rendezvous-hashing](https://github.com/vrza/php-rendezvous-hashing) is an implementation of Rendezvous Hashing (Highest Random Weight Hashing) for PHP
 
 [text-table-formatter](https://github.com/vrza/text-table-formatter) helps with pretty printing text tables in PHP
 
